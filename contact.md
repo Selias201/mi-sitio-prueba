@@ -4,7 +4,7 @@ title: Contacto
 permalink: /contact/
 ---
 
-## Contáctanos
+# Contáctanos
 
 📧 Email: contactodistieym@gmail.com  
 📞 Teléfono: +502 0000-0001 

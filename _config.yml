@@ -51,3 +51,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Agregar páginas personalizadas para que el tema minima las construya
+include:
+  - about.md
+  - catalog.md
+  - contact.md

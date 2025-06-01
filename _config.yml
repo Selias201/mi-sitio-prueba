@@ -21,9 +21,9 @@
 title: Distribuidora E&M
 email: Disteym@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Distribución de productos de la mejor calidad a nivel guatemalteco.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+  Distribución de productos de la mejor calidad a nivel guatemalteco. 
+baseurl: "/mi-sitio-prueba" # the subpath of your site, e.g. /blog
+url: "http://selias201.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Disteym2025
 github_username:  Disteym2025
 

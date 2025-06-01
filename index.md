@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Inicio
+permalink: /
 ---
 
 # Bienvenido a Mi Sitio Jekyll

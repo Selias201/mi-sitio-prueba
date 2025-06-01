@@ -28,7 +28,7 @@ twitter_username: Disteym2025
 github_username:  Disteym2025
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 

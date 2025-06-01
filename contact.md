@@ -6,6 +6,6 @@ permalink: /contact/
 
 # Contáctanos
 
-📧 Email: contactodistieym@gmail.com  
+📧 Email: contactodisteym@gmail.com  
 📞 Teléfono: +502 0000-0001 
 📍 Dirección: Fraijanes, Guatemala

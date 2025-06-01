@@ -3,13 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <base href="{{ site.baseurl }}/">
 </head>
 <body>
   <nav>
-    <a href="{{ '/' | relative_url }}">Inicio</a> |
-    <a href="{{ '/about/' | relative_url }}">Misión y Visión</a> |
-    <a href="{{ '/catalog/' | relative_url }}">Catálogo</a> |
-    <a href="{{ '/contact/' | relative_url }}">Contacto</a>
+    <ul>
+    <li><a href="{{ site.baseurl }}/">Inicio</a></li>
+    <li><a href="{{ site.baseurl }}/catalog">Catálogo</a></li>
+    <li><a href="{{ site.baseurl }}/about">Acerca</a></li>
+    <li><a href="{{ site.baseurl }}/contact">Contacto</a></li>
+  </ul>
   </nav>
   <hr>
   {{ content }}
